@@ -1,0 +1,29 @@
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1770px;
+    height: 730px;
+    padding-left: 10px;
+    margin: 50px;
+    background-color: #fe0065;
+    border-radius: 10px;
+    box-shadow: 0 14px 45px rgba(0, 0, 0, 0.22), 0 18px 45px, rgba(0, 0, 0, 0.22);
+}
+
+.previous {
+    padding: 20px;
+    margin-bottom: 200px;
+    margin-right: 20px;
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+}
+
+.next {
+    padding: 20px;
+    margin-top: 200px;
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+}
